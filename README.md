@@ -3,7 +3,7 @@
 React 18とTypeScript、Atomic Designパターンで構築されたタスク管理アプリケーションです。
 
 ## デモプレイ
-https://yunbow.github.io/app-todo/demo/
+https://yunbow.github.io/react-app-todo/demo/
 
 ## 主要機能
 
